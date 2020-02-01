@@ -10,4 +10,4 @@ export const addCategoryHeadlines = (category, headlines, page = 1) => ({
     category,
     headlines,
     page
-});
+}); 
